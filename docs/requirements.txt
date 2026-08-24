@@ -1,5 +1,5 @@
 furo==2025.12.19
 Sphinx==8.2.3
-sphinx-argparse==0.5.2
+sphinx-argparse==0.6.1
 sphinx-autobuild==2025.8.25
 sphinx-copybutton==0.5.2
