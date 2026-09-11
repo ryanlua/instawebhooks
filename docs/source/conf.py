@@ -68,7 +68,7 @@ html_theme = "furo"
 html_static_path = ['_static']
 
 html_theme_options = {
-    "announcement": "<em>Important</em> InstaWebhooks has been archived by its maintainers, and is no longer receiving any updates.",
+    "announcement": "InstaWebhooks has been archived and is no longer receiving any updates.",
     "footer_icons": [
         {
             "name": "GitHub",
